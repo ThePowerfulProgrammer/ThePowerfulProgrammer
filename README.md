@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ash
+- Comp Sci Scholar
 - 💢 All bugs will be eradicated.
  
 <!---
